@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Vijay Kumar
+=======
+Hello Vijay Kumar Naidu 
+How are you?
+
+>>>>>>> fb2b6f32b23551aa542b9c99054a2ccaeceac376
